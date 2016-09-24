@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 5e72a5eecafef4e4f8ce542624c1a862
+timeCreated: 1474753548
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LabelAtlas_0
+    21300002: LabelAtlas_1
+    21300004: LabelAtlas_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LabelAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 647
+        width: 785
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 297.5, y: 101.5}
+        - {x: 269.5, y: -27.5}
+        - {x: 271.5, y: 101.5}
+        - {x: 200.5, y: 101.5}
+        - {x: 200.5, y: -90.5}
+        - {x: 240.5, y: -106.5}
+        - {x: 326.5, y: -106.5}
+        - {x: 348.5, y: -98.5}
+        - {x: 369.5, y: -55.5}
+        - {x: 369.5, y: 101.5}
+      - - {x: -237.5, y: -86.5}
+        - {x: -207.5, y: -36.5}
+        - {x: -207.5, y: -99.5}
+        - {x: -205.5, y: -101.5}
+        - {x: -141.5, y: -101.5}
+        - {x: -139.5, y: -99.5}
+        - {x: -139.5, y: 99.5}
+        - {x: -141.5, y: 101.5}
+        - {x: -196.5, y: 101.5}
+        - {x: -200.5, y: 97.5}
+        - {x: -217.5, y: 72.5}
+        - {x: -245.5, y: 29.5}
+        - {x: -292.5, y: 98.5}
+        - {x: -296.5, y: 101.5}
+        - {x: -349.5, y: 101.5}
+        - {x: -351.5, y: 99.5}
+        - {x: -351.5, y: -99.5}
+        - {x: -349.5, y: -101.5}
+        - {x: -285.5, y: -101.5}
+        - {x: -283.5, y: -99.5}
+        - {x: -281.5, y: -40.5}
+        - {x: -248.5, y: -92.5}
+      - - {x: -123.5, y: 101.5}
+        - {x: -123.5, y: -101.5}
+        - {x: -0.5, y: -101.5}
+        - {x: -0.5, y: 101.5}
+      - - {x: 185.5, y: 101.5}
+        - {x: 12.5, y: 101.5}
+        - {x: 12.5, y: -101.5}
+        - {x: 185.5, y: -101.5}
+    - name: LabelAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 702
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129, y: 101.5}
+        - {x: -298, y: 101.5}
+        - {x: -300, y: 99.5}
+        - {x: -300, y: -98.5}
+        - {x: -298, y: -100.5}
+        - {x: -127, y: -100.5}
+        - {x: -127, y: 99.5}
+      - - {x: 191, y: -86.5}
+        - {x: 142, y: 2.5}
+        - {x: 182, y: 77.5}
+        - {x: 183, y: 44.5}
+        - {x: 220, y: 41.5}
+        - {x: 219, y: -100.5}
+        - {x: 292, y: -100.5}
+        - {x: 328, y: 46.5}
+        - {x: 328, y: 99.5}
+        - {x: 326, y: 101.5}
+        - {x: 15, y: 101.5}
+        - {x: 12, y: 99.5}
+        - {x: 63, y: 2.5}
+        - {x: 38, y: -39.5}
+        - {x: 8, y: -28.5}
+        - {x: 17, y: 28.5}
+        - {x: 10, y: 101.5}
+        - {x: -109, y: 101.5}
+        - {x: -111, y: 100.5}
+        - {x: -111, y: -100.5}
+        - {x: 194, y: -100.5}
+        - {x: 196, y: -98.5}
+    - name: LabelAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 69
+        width: 953
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -304.5, y: -8}
+        - {x: -304.5, y: 31}
+        - {x: -317.5, y: 67}
+        - {x: -338.5, y: 87}
+        - {x: -364.5, y: 98}
+        - {x: -468.5, y: 98}
+        - {x: -468.5, y: -104}
+        - {x: -296.5, y: -104}
+        - {x: -296.5, y: -94}
+        - {x: -329.5, y: -38}
+      - - {x: -296.5, y: 98}
+        - {x: -296.5, y: -104}
+        - {x: -173.5, y: -104}
+        - {x: -173.5, y: 98}
+      - - {x: -1.5, y: 51}
+        - {x: -21.5, y: 87}
+        - {x: -56.5, y: 97}
+        - {x: -73.5, y: 98}
+        - {x: -159.5, y: 98}
+        - {x: -159.5, y: -103}
+        - {x: -157.5, y: -104}
+        - {x: -90.5, y: -104}
+        - {x: -74.5, y: -60}
+        - {x: -40.5, y: -62}
+        - {x: -1.5, y: -19}
+      - - {x: 257.5, y: -104}
+        - {x: 323.5, y: -104}
+        - {x: 325.5, y: -103}
+        - {x: 325.5, y: -100}
+        - {x: 322.5, y: -89}
+        - {x: 251.5, y: 98}
+        - {x: 195.5, y: 98}
+        - {x: 139.5, y: -53}
+        - {x: 131.5, y: -48}
+        - {x: 79.5, y: -48}
+        - {x: 82.5, y: 98}
+        - {x: 8.5, y: 98}
+        - {x: 8.5, y: -102}
+        - {x: 10.5, y: -104}
+        - {x: 188.5, y: -104}
+        - {x: 190.5, y: -103}
+        - {x: 197.5, y: -87}
+        - {x: 250.5, y: -89}
+      - - {x: 271.5, y: 98}
+        - {x: 271.5, y: 88}
+        - {x: 331.5, y: -19}
+        - {x: 329.5, y: -104}
+        - {x: 400.5, y: -104}
+        - {x: 402.5, y: -16}
+        - {x: 461.5, y: 93}
+        - {x: 461.5, y: 98}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
